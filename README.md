@@ -1,4 +1,6 @@
-# 🧠 Function Mastery Practice
+#  Mastering Functions
+“Hard work betrays none, but dreams betray many.” – Hachiman Hikigaya, Oregairu
+
 Welcome to the Function Mastery project! 🚀 This project is designed to help me sharpen my skills in writing clean, efficient, and high-performance functions for coding rounds. It focuses on tackling key problems from machine coding challenges in a fun and interactive way!
 
 # 💡 Objective
