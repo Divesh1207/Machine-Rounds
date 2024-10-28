@@ -1,0 +1,34 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#search-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+}
+
+#list-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+#list-section li {
+    padding: 10px;
+    background-color: #f4f4f4;
+    margin: 5px 0;
+}
