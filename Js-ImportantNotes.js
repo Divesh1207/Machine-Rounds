@@ -62,6 +62,12 @@ function handleObject(anyobject) {
 }
 handleObject(user);
 
+//spread operator
+const numbersOne = [1, 2, 3];
+const numbersTwo = [4, 5, 6];
+const numbersCombined = [...numbersOne, ...numbersTwo];
+console.log(numbersCombined);
+
 // 3.array=>
 //An array is a data structure
 //that stores multiple pieces of data of the same type or mixed data types.
